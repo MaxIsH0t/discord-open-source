@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "logo": "arsenalnetwork.svg",
+      "title": "ArsenalNetwork",
+      "inviteCode": "qG7R8Aw",
+      "githubUrl": "https://github.com/MaxIsH0t"
+    },
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
